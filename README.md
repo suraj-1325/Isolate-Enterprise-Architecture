@@ -144,5 +144,3 @@ This makes the lab safe for aggressive testing, misconfigurations, and attack si
 
 
 
-
-![Uploading image.png…]()
