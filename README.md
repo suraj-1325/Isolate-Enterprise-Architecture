@@ -187,7 +187,7 @@ The **DR ESXi host (VLAN 200)** is used to replicate and recover:
 
 ---
 
-## Summary
+## Conclusion
 This lab demonstrates a **secure, segmented, enterprise-grade virtual infrastructure** using VMware ESXi. It includes clustered compute, centralized firewalling, strict access controls, identity management, monitoring, backup, and disaster recovery.
 
 The architecture closely mirrors real-world enterprise environments and is suitable for hands-on learning, security testing, and professional portfolio demonstration.
